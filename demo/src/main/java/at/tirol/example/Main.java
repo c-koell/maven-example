@@ -11,5 +11,6 @@ public class Main {
         System.out.println("feature_1.2");
         System.out.println("feature_1.3");
         System.out.println("feature_1.4");
+        System.out.println("stash mal");
     }
 }
